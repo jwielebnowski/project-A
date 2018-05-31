@@ -1,0 +1,4 @@
+[submodule "library-A"]
+	path = library-A
+	url = https://jwielebnowski@github.com/jwielebnowski/library-A.git
+	branch = develop
